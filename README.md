@@ -1,8 +1,8 @@
 # react-pics
 React Application for image search
 
-##setup 
+## setup 
 npm install
 
-##start application
+## start application
 npm start
